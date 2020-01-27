@@ -1,1 +1,2 @@
-# profile
+# Probot ✨
+Epic Discord Bot
